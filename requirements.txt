@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pickle
+numpy
+pandas
+warnings
+gunicorn
+sklearn
+scikit-learn==0.24.2
