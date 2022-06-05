@@ -1,6 +1,6 @@
 Flask
 flask-cors
-pickle
+pickle==4.0
 numpy
 pandas
 warnings
